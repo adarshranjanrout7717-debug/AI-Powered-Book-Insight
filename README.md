@@ -89,6 +89,29 @@ npm start
 <img width="1600" height="766" alt="WhatsApp Image 2026-04-17 at 9 25 02 PM" src="https://github.com/user-attachments/assets/f962d7b8-4732-447d-a8cd-275c3409bbdd" />
 ---
 
+## 📦 Requirements
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+npm install
+```
+Backend Requirements
+- Python 3.x
+- Django
+- Django REST Framework
+- sentence-transformers
+- chromadb
+- requests
+- beautifulsoup4
+  
+Frontend Requirements
+- Node.js
+- npm
+- React.js
+- Tailwind CSS
+
 ## 👨‍💻 Author
 Adarsh Ranjan Rout
 
